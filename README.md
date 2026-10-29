@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dzak 👋
 
-<!--
-**5hadowblaze/5hadowblaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computing & IT student at the University of Surrey, interested in building products that bring together software engineering, AI and thoughtful design.
 
-Here are some ideas to get you started:
+## Selected projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Sidequest](https://github.com/5hadowblaze/sidequest) — a hackathon project exploring verified, constraint-based weekend planning with agents. The project received second place in the Cursor Track at the Multiagents Hackathon in June 2026.
+- [Rho Signal Room](https://github.com/5hadowblaze/generative-ui-london-hackathon-starter) — a generative UI banking support demo built for the London A2A & A2UI Hackathon. The project was a top-six finalist.
+- [Synapse](https://github.com/5hadowblaze/Synapse) — an iPhone and Apple Watch prototype exploring personalised cognitive pacing.
+- [Parla](https://github.com/5hadowblaze/AR-Language-Learning-Adventure-Parla) — an AR language-learning prototype using object recognition and generative AI.
+- [Volunteera](https://github.com/5hadowblaze/volunteermatch) — a University of Surrey group project designed to connect volunteers with charities and organisations.
+
+These projects include team and hackathon work; see the individual repositories for their context.
